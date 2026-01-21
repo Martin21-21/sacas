@@ -1,0 +1,31 @@
+Here’s a short, human-style report based on the dashboard insights:
+
+---
+
+Summary Report
+
+The analysis highlights clear differences in ordering behavior across member types, payment methods, and restaurant preferences.
+
+Gold members
+
+
+ consistently generate higher order value compared to Regular members. This trend is especially strong with 
+
+
+
+UPI payments, which contribute the largest share of total order value for both member types. **COD** follows next, while **Card payments** remain the least used overall.
+
+In terms of 
+
+
+customer activity
+
+ UPI shows noticeable spikes in food item counts for certain customers, indicating that frequent or bulk ordering customers prefer UPI over other payment methods. Card and COD usage remain comparatively steady with lower peaks.
+
+Looking at restaurant preferences, North Indian cuisine dominates food item counts for both Gold and Regular members, followed by Mughlai and South Indian cuisines. Gold members consistently order more items across all restaurant types.
+
+From a  restaurant-level perspective, places like Bukhara and Saravana Bhavan contribute the highest quantities ordered, with Gold members again leading slightly over Regular members. This suggests strong loyalty and higher engagement from Gold members at popular restaurants.
+
+Overall, Gold members are more valuable customers, UPI is the most impactful payment method, and North Indian restaurants drive the highest demand. These insights can help focus loyalty programs, payment incentives, and restaurant partnerships more effectively.
+
+---
